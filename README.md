@@ -88,7 +88,3 @@ The app is a small Python backend with an HTML interface, shown in a native wind
 ## Credits
 
 Created by **@aonzi**. Mod data and downloads are provided by the [Modrinth API](https://docs.modrinth.com). This project is not affiliated with Mojang, Microsoft or Modrinth.
-
-## License
-
-Add your license here (for example MIT).
